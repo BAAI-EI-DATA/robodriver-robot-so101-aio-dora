@@ -1,3 +1,3 @@
-from config import SO101AIODoraRobotConfig
-from robot import SO101AIODoraRobot
-from status import SO101AIODoraRobotStatus
+from .config import SO101AIODoraRobotConfig
+from .robot import SO101AIODoraRobot
+from .status import SO101AIODoraRobotStatus
